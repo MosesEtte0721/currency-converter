@@ -1,0 +1,25 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "currency-converter.js",
+  "scripts": {
+    "start": "node currency-converter.js",
+    "dev": "nodemon currency-converter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "node",
+    "javascript"
+  ],
+  "author": "Ette Moses",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^13.3.2",
+    "npm": "^11.12.1"
+  }
+}
